@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Abhishek Kumar.
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning languages like css,javascript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning languages like css, java and javascript.
+- 💞️ I’m looking to collaborate on as intern.
+- 📫 How to reach me ..by Gmail.
 
 <!---
 dabhigithub/dabhigithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
