@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Kumar.
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning languages like css, java and javascript.
+- 🌱 I’m currently learning BCA(Bachelor in Computer Application.
 - 💞️ I’m looking to collaborate on as intern.
 - 📫 How to reach me ..by Gmail.
 
