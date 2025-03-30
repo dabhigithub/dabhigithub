@@ -1,14 +1,14 @@
-<h1 align="left">👋 Hi, I'm Abhishek</h1>
+<h1 align="centre">👋 Hi, I'm Abhishek</h1>
 
 - 👨‍💻 I am currently working on college projects in India.
-- 📫 How to reach me: [ak701082@gmail.com](mailto:ak701082@gmail.com)
-- 🔗 Rocking 200+ connections on LinkedIn! Let's connect.
+- 📫 How to reach me: [abhishek.kumar012of@gmail.com](mailto:abhishek.kumar012of@gmail.com)
+- 🔗 Rocking 500+ connections on LinkedIn! Let's connect.
 - 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey 💻❤️
 
-<h3 align="left">📲 Connect with me:</h3>
+<h3 align="centre">📲 Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/abhishek kumar/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ak701082@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:abhishek.kumar012of@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/_d_abhi_01"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
