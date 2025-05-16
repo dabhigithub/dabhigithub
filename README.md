@@ -7,12 +7,12 @@
 <h2 align="center"> Hi there, I'm Abhishek <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=22px height=22px />
 <h2/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rasif-Taghizada&theme=blue-green&show_icons=true" align="left" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dabhigithub&theme=blue-green&show_icons=true" align="left" width="48%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabhigithub&layout=compact" align="left" 
 width="47%"/>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rasif-Taghizada&" alt="Rasif-Taghizada" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dabhigithub&" alt="dabhigithub" /></p>
 
 
 
