@@ -1,33 +1,46 @@
-<h1 align="centre">👋 Hi, I'm Abhishek</h1>
+<a href=#><img src="contributions.svg"></a>
 
-- 👨‍💻 I am currently working on college projects in India.
-- 📫 How to reach me: [abhishek.kumar012of@gmail.com](mailto:abhishek.kumar012of@gmail.com)
-- 🔗 Rocking 500+ connections on LinkedIn! Let's connect.
-- 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey 💻❤️
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/dabhigithub/count.svg"/>
+</p>
+<h2 align="center"> Hi there, I'm Abhishek <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=22px height=22px />
+<h2/>
 
-<h3 align="centre">📲 Connect with me:</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/abhishek kumar/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:abhishek.kumar012of@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/_d_abhi_01"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Rasif-Taghizada&theme=blue-green&show_icons=true" align="left" width="48%"/>
 
-<h3 align="left">🚀 Tech Stack:</h3>
-<div align="left">
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabhigithub&layout=compact" align="left" 
+width="47%"/>
 
-<h3 align="left">🗄️ Databases:</h3>
-<div align="left">
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rasif-Taghizada&" alt="Rasif-Taghizada" /></p>
 
-<h3 align="left">📈 GitHub Stats:</h3>
-<div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dabhigithub&theme=dark" alt="dabhigithub" /></p>
-</div>
+
+
+<br/>
+  
+### Connect with me:
+
+[<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" />][linkedin]
+
+[<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" />][Instagram]
+
+
+[Linkedin]: https://www.linkedin.com/in/abhishek-kumar012/
+[Instagram]: https://www.instagram.com/_d_abhi_01/
+
+
+<br />
+
+## Tech I Use:
+<img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img align="left" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
+<img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+
